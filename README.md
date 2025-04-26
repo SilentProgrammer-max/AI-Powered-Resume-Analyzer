@@ -1,2 +1,2 @@
 # AI-Powered-Resume-Analyzer
-An AI-powered tool that analyzes resumes and gives insights on skills, experience, and job match.
+Analyze resumes intelligently using Natural Language Processing (NLP) and AI.
