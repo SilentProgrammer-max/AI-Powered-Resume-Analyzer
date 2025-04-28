@@ -20,3 +20,7 @@ doc = nlp(resume_text)
 for ent in doc.ents:
     print(ent.text, ent.label_)
 
+
+
+
+
