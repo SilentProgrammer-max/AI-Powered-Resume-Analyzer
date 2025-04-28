@@ -19,8 +19,3 @@ doc = nlp(resume_text)
 # Extract Entities (like skills, names, etc.)
 for ent in doc.ents:
     print(ent.text, ent.label_)
-
-
-
-
-
