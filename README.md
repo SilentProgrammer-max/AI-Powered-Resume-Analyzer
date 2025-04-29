@@ -14,7 +14,7 @@ This project aims to build an AI-powered resume analyzer that evaluates resumes 
 ## Installation
 To run this project locally:
 1. Clone the repo: 
-```
+``` 
    git clone https://github.com/SilentProgrammer-max/AI-Powered-Resume-Analyzer.git
 ```
 ### Navigate to the project directory:
