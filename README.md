@@ -4,7 +4,7 @@ Analyze resumes intelligently using Natural Language Processing (NLP) and AI.
 ## Project Overview
 This project aims to build an AI-powered resume analyzer that evaluates resumes and provides suggestions for improvement. It uses natural language processing (NLP) techniques to analyze the content of resumes and match them with job descriptions.
 
-## Technologies Used
+## Technologies Used 
 - Python
 - Streamlit
 - NLP (Natural Language Processing)
