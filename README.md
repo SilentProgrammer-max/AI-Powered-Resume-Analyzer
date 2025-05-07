@@ -43,7 +43,3 @@ If you'd like to contribute to this project, please fork the repo and create a p
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
-
